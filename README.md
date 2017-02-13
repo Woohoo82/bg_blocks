@@ -1,2 +1,2 @@
-# bg_blocks
-Background generator - blocks
+# Background generator - blocks
+This is a Processing sketch.
